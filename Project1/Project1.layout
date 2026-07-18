@@ -1,0 +1,82 @@
+[
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/main.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 0,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/archivos.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 5,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/login.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 2,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/estructura.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 1,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/estructura.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 6,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/login.cpp",
+        "focused": true,
+        "isOpen": true,
+        "left": 0,
+        "order": 7,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/productos.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 3,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/archivos.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 4,
+        "top": 0
+    }
+]
