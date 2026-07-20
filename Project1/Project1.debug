@@ -1,0 +1,39 @@
+{
+    "breakpoints": [
+        {
+            "breakpoint_type": 0,
+            "condition": "",
+            "enabled": true,
+            "filename": "archivos.cpp",
+            "line": 22,
+            "timestamp": "1784483107607"
+        },
+        {
+            "breakpoint_type": 0,
+            "condition": "",
+            "enabled": true,
+            "filename": "main.cpp",
+            "line": 10,
+            "timestamp": "1784484359466"
+        },
+        {
+            "breakpoint_type": 0,
+            "condition": "",
+            "enabled": true,
+            "filename": "productos.cpp",
+            "line": 52,
+            "timestamp": "1784488237327"
+        },
+        {
+            "breakpoint_type": 0,
+            "condition": "",
+            "enabled": true,
+            "filename": "productos.cpp",
+            "line": 77,
+            "timestamp": "1784488491087"
+        }
+    ],
+    "timestamp": "1784488711391",
+    "watchvars": [
+    ]
+}

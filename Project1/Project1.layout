@@ -1,7 +1,27 @@
 [
     {
         "caretX": 1,
+        "caretY": 12,
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/productos.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 3,
+        "top": 0
+    },
+    {
+        "caretX": 1,
         "caretY": 1,
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/archivos.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 4,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 6,
         "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/main.cpp",
         "focused": false,
         "isOpen": true,
@@ -10,28 +30,8 @@
         "top": 0
     },
     {
-        "caretX": 1,
-        "caretY": 1,
-        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/archivos.cpp",
-        "focused": false,
-        "isOpen": true,
-        "left": 0,
-        "order": 5,
-        "top": 0
-    },
-    {
-        "caretX": 1,
-        "caretY": 1,
-        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/login.h",
-        "focused": false,
-        "isOpen": true,
-        "left": 0,
-        "order": 2,
-        "top": 0
-    },
-    {
-        "caretX": 1,
-        "caretY": 1,
+        "caretX": 58,
+        "caretY": 27,
         "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/estructura.h",
         "focused": false,
         "isOpen": true,
@@ -50,10 +50,20 @@
         "top": 0
     },
     {
+        "caretX": 2,
+        "caretY": 22,
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/archivos.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 5,
+        "top": 0
+    },
+    {
         "caretX": 1,
-        "caretY": 1,
+        "caretY": 6,
         "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/login.cpp",
-        "focused": true,
+        "focused": false,
         "isOpen": true,
         "left": 0,
         "order": 7,
@@ -62,21 +72,31 @@
     {
         "caretX": 1,
         "caretY": 1,
-        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/productos.h",
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/login.h",
         "focused": false,
         "isOpen": true,
         "left": 0,
-        "order": 3,
+        "order": 2,
         "top": 0
     },
     {
         "caretX": 1,
         "caretY": 1,
-        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/archivos.h",
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/ordenes.h",
+        "focused": true,
+        "isOpen": true,
+        "left": 0,
+        "order": 9,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 10,
+        "filename": "C:/Users/Lorenzo Chuquizala/Desktop/PROEYCTO_FINAL/Proyecto-final/Project1/productos.cpp",
         "focused": false,
         "isOpen": true,
         "left": 0,
-        "order": 4,
+        "order": 8,
         "top": 0
     }
 ]
