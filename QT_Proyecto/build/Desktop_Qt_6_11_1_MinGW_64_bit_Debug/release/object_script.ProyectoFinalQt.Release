@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/login.o
+release/archivos.o
+release/productos.o
+release/ordenes.o
+release/moc_mainwindow.o
+release/moc_login.o
+release/moc_productos.o
+release/moc_ordenes.o

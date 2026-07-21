@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/login.o
+debug/archivos.o
+debug/productos.o
+debug/ordenes.o
+debug/moc_mainwindow.o
+debug/moc_login.o
+debug/moc_productos.o
+debug/moc_ordenes.o
